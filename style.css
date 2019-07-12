@@ -194,8 +194,8 @@ footer {
 
 /*Smartphone*/
 @media only screen and (max-width : 600px) {
-	.social-media{ width:90%; padding: 5%;
+	.social-media { width:90%; padding: 5%;
 	}
-	.address{ width:86%; padding: 7%;
+	.address { width:86%; padding: 7%;
 	}
 }
